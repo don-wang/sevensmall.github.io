@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mere daniel</title><link href="http://meredaniel.com/" rel="alternate"></link><link href="http://meredaniel.com/feeds/all.atom.xml" rel="self"></link><id>http://meredaniel.com/</id><updated>2014-06-01T00:00:00+09:00</updated><entry><title>Hello Pelican</title><link href="http://meredaniel.com/posts/hello-pelican.html" rel="alternate"></link><updated>2014-06-01T00:00:00+09:00</updated><author><name>Daniel Wang</name></author><id>tag:meredaniel.com,2014-06-01:posts/hello-pelican.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello world!&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;WHAT?&lt;/h2&gt;
+&lt;p&gt;A mere website of a &lt;a href="about" title="about me"&gt;mere human&lt;/a&gt; here, recording some of my ideas and thoughts.&lt;/p&gt;
+&lt;h2&gt;WHY?&lt;/h2&gt;
+&lt;p&gt;Once I built a blog with &lt;em&gt;Wordpress&lt;/em&gt; when learning &lt;em&gt;PHP&lt;/em&gt;. To me it's so fun to make websites, but kind of boring to update the contents. Since I'm lazy and not good at writing posts, that blog was laid aside and abandoned after a short while.&lt;/p&gt;
+&lt;p&gt;Now we got another guinea pig. Recently I started learning &lt;a href="https://www.python.org/"&gt;Python&lt;/a&gt; and &lt;a href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;. While reading some references article I encountered &lt;em&gt;&lt;a href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;/em&gt;, a static blog engine based on python.&lt;/p&gt;
+&lt;p&gt;The simple reason why I take to Pelican is &lt;strong&gt;simple&lt;/strong&gt;. It is simple to learn, simple to write, simple to deploy. So why not start a blog with it?&lt;/p&gt;
+&lt;p&gt;Actually, the deadline of my Master Thesis is two weeks later. But I didn't start writing yet. I think perhaps write something on blog first would be helpful to the thesis process :'-(&lt;/p&gt;
+&lt;h2&gt;HOW?&lt;/h2&gt;
+&lt;p&gt;There are not too much required knowledge for Pelican. Some basic python and HTML skill should be enough.&lt;/p&gt;
+&lt;h3&gt;Install&lt;/h3&gt;
+&lt;p&gt;You can start your local service by only 3 steps:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;pip install pelican   &lt;span class="c"&gt;# install pelican via pip&lt;/span&gt;
+&lt;span class="nv"&gt;$ &lt;/span&gt;pelican-quickstart    &lt;span class="c"&gt;# setup with prompt questions&lt;/span&gt;
+&lt;span class="nv"&gt;$ &lt;/span&gt;make devserver        &lt;span class="c"&gt;# start a development web server&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Then you can access your pelican at &lt;a href="http://localhost:8000"&gt;http://localhost:8000&lt;/a&gt;.
+To find more detail instructions, many resources are available, like the official &lt;a href="http://pelican.readthedocs.org/en/3.3.0/getting_started.html"&gt;Guideline&lt;/a&gt; is very easy and clear to follow.&lt;/p&gt;
+&lt;h3&gt;Theme&lt;/h3&gt;
+&lt;p&gt;After the basic blog was set up, I need some customize especially the theme. Keeping the simple style of Pelican, I found the this &lt;a href="https://github.com/theskumar/pelican-svbtle-responsive"&gt;SVTLE RESPONSIVE&lt;/a&gt;. Now you have seen the result of modification.&lt;/p&gt;
+&lt;h3&gt;Server Host&lt;/h3&gt;
+&lt;p&gt;Unlike &lt;em&gt;Wordpress&lt;/em&gt; or other blog systems, Pelican only need to show static files, thus the hosting could have many options.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pages.github.com/"&gt;GitHub Pages&lt;/a&gt; is one very good choice: Free, Trusty, Simple.&lt;/p&gt;
+&lt;h1&gt;Finally&lt;/h1&gt;
+&lt;p&gt;Everything looks simple, it makes me feel good. Just hope I can keep writing.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;See you, world!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="blog"></category></entry></feed>
