@@ -4,7 +4,7 @@
 
 
 &lt;h2&gt;WHAT?&lt;/h2&gt;
-&lt;p&gt;A mere website of a &lt;a href="http://meredaniel.com/hello-pelican.html" title="about me"&gt;mere human&lt;/a&gt; here, recording some of my ideas and thoughts.&lt;/p&gt;
+&lt;p&gt;A mere website of a &lt;a href="http://meredaniel.com/about.html" title="about me"&gt;mere human&lt;/a&gt; here, recording some of my ideas and thoughts.&lt;/p&gt;
 &lt;h2&gt;WHY?&lt;/h2&gt;
 &lt;p&gt;Once I built a blog with &lt;em&gt;Wordpress&lt;/em&gt; when learning &lt;em&gt;PHP&lt;/em&gt;. To me it's so fun to make websites, but kind of boring to update the contents. Since I'm lazy and not good at writing posts, that blog was laid aside and abandoned after a short while.&lt;/p&gt;
 &lt;p&gt;Now we got another guinea pig. Recently I started learning &lt;a href="https://www.python.org/"&gt;Python&lt;/a&gt; and &lt;a href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;. While reading some references article I encountered &lt;em&gt;&lt;a href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;/em&gt;, a static blog engine based on python.&lt;/p&gt;
