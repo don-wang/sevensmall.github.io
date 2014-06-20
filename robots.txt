@@ -1,0 +1,6 @@
+# robots.txt for http://meredaniel.com/
+
+User-agent: *
+
+Disallow: /extra/
+Disallow: /theme/
