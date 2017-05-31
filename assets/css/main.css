@@ -2447,7 +2447,7 @@ PT+Sans|PT+Serif|PT+Mono
 		}
 
 		.features img:hover {
-		    -webkit-transform: scale(2);
+		    // -webkit-transform: scale(2);
 		}
 		.features article .inner {
 			display: inline-block;
